@@ -4,13 +4,13 @@ Draw one card from each of three piles to get a maker challenge. The **Materials
 
 **Discarded packaging + Counterweight + Reveal something hidden.** Can you make a cereal-box theater whose curtain rises when you drop a coin into a paper cup?
 
-[Print the cards](cards/Contraption-Shuffle-Home-Print.pdf) · [Read the rules](cards/Contraption-Shuffle-Rules.pdf) · [Download the print-shop pack](downloads/Contraption-Shuffle-Print-Pack.zip) · [Build a case](#build-a-case)
+[Print the cards](cards/Contraption-Shuffle-Home-Print.pdf) · [Read the rules](cards/Contraption-Shuffle-Rules.pdf) · [Download the print-shop pack](downloads/Contraption-Shuffle-Print-Pack.zip) · [Download The Game Crafter edition](downloads/Contraption-Shuffle-Game-Crafter-Common-Back.zip) · [Build a case](#build-a-case)
 
 ![A sample of the Contraption Shuffle physical deck](cards/Contraption-Shuffle-Preview.png)
 
 ## Play at the workbench
 
-Separate the 54 cards by the symbols on their backs and shuffle each pile face down. Draw one of each. Use the material as a main ingredient and make the mechanism do something that helps accomplish the mission. Everyday supplies like tape and fasteners are fair game. A working model counts. If a draw stalls, keep the two cards you like and redraw the third.
+For the original edition, sort the 54 cards by the symbols on their backs. For the common-back edition, sort by the category labels on the faces. Shuffle each pile separately and place it face down. Draw one of each. Use the material as a main ingredient and make the mechanism do something that helps accomplish the mission. Everyday supplies like tape and fasteners are fair game. A working model counts. If a draw stalls, keep the two cards you like and redraw the third.
 
 | Pile | Back | Cards | Question |
 | --- | --- | ---: | --- |
@@ -23,6 +23,8 @@ The physical deck gives you 5,832 possible challenges. The rules are on a separa
 ## Print the cards
 
 **At home.** The [home-print PDF](cards/Contraption-Shuffle-Home-Print.pdf) makes the whole deck on six US Letter sheets. Print at **100% / actual size**, double-sided, flipping on the **long edge**. Each odd page has nine backs. The following even page has their matching faces. Print pages 1–2 first, hold the sheet up to the light to check alignment, then print the remaining pairs. Cut on the grid to get 2.5 × 3.5 inch cards.
+
+**At The Game Crafter.** The [common-back upload pack](downloads/Contraption-Shuffle-Game-Crafter-Common-Back.zip) contains 54 individual poker faces, one reversible back for the entire deck, and outside artwork for the 54-card Poker Tuck Box. This edition also supports a mixed draw. Shuffle all the cards together, reveal the first of each category, and set duplicates aside. The [upload instructions](cards/print-shop/the-game-crafter/README.md) and [one-page rules](cards/print-shop/the-game-crafter/rules/Contraption-Shuffle-Common-Back-Rules.pdf) are included in the pack.
 
 **At DriveThruCards.** Choose US Poker (2.5 × 3.5 inches) and upload the [54-card deck PDF](cards/print-shop/drivethrucards/Contraption-Shuffle-DriveThruCards-Deck.pdf). Its 108 pages alternate each category back with its matching face. For the custom box, select the 54-card poker tuckbox and upload the [tuckbox PDF](cards/print-shop/drivethrucards/Contraption-Shuffle-DriveThruCards-Tuckbox.pdf) separately.
 
