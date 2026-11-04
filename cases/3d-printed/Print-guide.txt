@@ -1,0 +1,56 @@
+THE CONTRAPTION SHUFFLE
+Three-bay card case | v1.0 | M.B. Parks
+
+PRINT TWO PIECES
+Import Base.stl and Lid.stl into your slicer as separate parts. Use millimetres
+and 100% scale. Print one of each. The base opens upward. The lid's lettered
+exterior lies on the bed and its hollow side opens upward. Both files are
+already in these orientations.
+
+Suggested starting profile for a 0.4 mm nozzle: 0.20 mm layers, 3 wall loops,
+4 top and bottom layers, and 15% infill. PLA or PETG is suitable. Use your
+printer's material profile. The two parts can print without supports in the
+provided orientations. The shallow elastic-band tracks bridge 6.6 mm. The
+recessed title takes the surface finish of your build plate around its letters.
+The preview uses two filament colors. Single-color printing works as well.
+
+LOAD THE CASE
+With the M.B. PARKS lettering facing you, place one 18-card pile on its long
+edge in each bay. From front to back: Materials, Mechanism, Mission. The right
+end has a stack of sheets, a gear and a flag in the same order. For the usual
+draw, place category backs facing you. To lift out a full pile, grip its exposed
+short ends. About 24.7 mm of each pile projects above the open case.
+
+Lower the cap straight onto the shoulder. It is a clearance-fit lid and lifts
+off by hand. To secure the case in a bag, stretch a flat elastic band up to
+6 mm wide around the top and bottom in either pair of aligned end tracks.
+The elastic is optional and supplied separately. The cap has no snap latch.
+
+FIT AND DIMENSIONS (mm)
+Finished unsleeved card: 88.9 long x 63.5 high (3.5 x 2.5 in).
+Each bay: 90.9 long x 10.8 wide. Designed for an 18-card stack measuring up
+to 9.0 thick, leaving 1.8 for handling. Measure your thickest 18-card stack,
+especially if the cards are laminated or glued. Closed headroom: 1.8.
+Closed case: 99.5 long x 44.2 deep x 70.1 high.
+Base: 99.5 x 44.2 x 41.2. Lid: 99.5 x 44.2 x 38.5.
+Lid engagement: 9.6. Sliding clearance: 0.30 per side.
+Nominal walls: 2.0 at neck and cap, 1.6 for dividers, 2.4 for floor and roof.
+Recessed lettering and band tracks locally reduce those thicknesses.
+Each STL fits a 100 x 45 mm footprint before any brim or slicer margin.
+
+EDIT THE SIZE
+Base.step and Lid.step are separate solid models in their closed assembly
+positions. Use them directly in a CAD editor. The STL files are in print
+positions, so the lid is flipped relative to the STEP model.
+
+The parametric source is model.py (Python 3 and CadQuery 2.7). Change
+PACK_THICKNESS to your measured stack, or change CARD_LENGTH and CARD_HEIGHT
+to the outside size of your sleeves. LID_PLAY adjusts printer fit per side.
+Run python3 model.py to regenerate both parts. Re-slice the two files together
+after changing dimensions. The engraved marks are modeled into the solids.
+
+VERIFICATION
+Both exported STLs were checked for closed edges, consistent normals, a
+single connected body, positive volume and a flat build orientation. The CAD
+solids were checked with three 9.0 mm dummy stacks and along the cap removal
+path. Fit has been checked digitally. A physical print has not been tested.

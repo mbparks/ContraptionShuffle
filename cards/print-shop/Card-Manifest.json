@@ -1,0 +1,434 @@
+[
+  {
+    "id": "M01",
+    "type": "MATERIALS",
+    "title": "Corrugated cardboard",
+    "instruction": "Use the ridged layers of a shipping box as your main building material. Cut, fold or laminate them.",
+    "cue": "FOLD / STACK / SLOT",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M02",
+    "type": "MATERIALS",
+    "title": "Paper",
+    "instruction": "Make paper do the work. Fold, roll, pleat or layer ordinary sheets into a useful structure.",
+    "cue": "FOLD / ROLL / PLEAT",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M03",
+    "type": "MATERIALS",
+    "title": "Scrap wood",
+    "instruction": "Give a wooden offcut another job. Make it a useful part of your contraption.",
+    "cue": "JOIN / STACK / SHAPE",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M04",
+    "type": "MATERIALS",
+    "title": "Discarded packaging",
+    "instruction": "Turn a clean box, carton or packing insert into the main structure of your build.",
+    "cue": "RESCUE / REBUILD",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M05",
+    "type": "MATERIALS",
+    "title": "Paperboard tubes",
+    "instruction": "Build around one or more paperboard tubes. Use their hollow shape, or cut and reshape them.",
+    "cue": "ROLL / NEST / JOIN",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M06",
+    "type": "MATERIALS",
+    "title": "Craft sticks",
+    "instruction": "Use craft sticks as the main structural pieces. Connect them into something that works.",
+    "cue": "BRIDGE / LINK / LAYER",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M07",
+    "type": "MATERIALS",
+    "title": "Bottle caps",
+    "instruction": "Make clean bottle caps an essential part of your build. Explore their rims, circles and small size.",
+    "cue": "ROLL / STACK / SORT",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M08",
+    "type": "MATERIALS",
+    "title": "Plastic bottles",
+    "instruction": "Give a clean plastic bottle a new purpose. Use its body, neck or flexible walls in your build.",
+    "cue": "SQUEEZE / SHAPE / HOLD",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M09",
+    "type": "MATERIALS",
+    "title": "Fabric scraps",
+    "instruction": "Make fabric an essential working part. Fold, stretch, tie or stitch your scraps into shape.",
+    "cue": "STITCH / STRETCH / FOLD",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M10",
+    "type": "MATERIALS",
+    "title": "String or yarn",
+    "instruction": "Use string or yarn to carry a load, connect parts or transmit motion. Put tension to work.",
+    "cue": "TIE / WEAVE / PULL",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M11",
+    "type": "MATERIALS",
+    "title": "Thin craft wire",
+    "instruction": "Bend thin craft wire into a useful structure or moving part. Give those lines a job to do.",
+    "cue": "BEND / LOOP / TWIST",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M12",
+    "type": "MATERIALS",
+    "title": "Rubber bands",
+    "instruction": "Put rubber bands to work. Use their stretch, grip or stored energy as a key part of your build.",
+    "cue": "STRETCH / GRIP / RETURN",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M13",
+    "type": "MATERIALS",
+    "title": "Clothespins",
+    "instruction": "Use wooden clothespins as working parts. Try their jaws, spring or wooden halves.",
+    "cue": "CLAMP / JOIN / RELEASE",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M14",
+    "type": "MATERIALS",
+    "title": "Egg cartons",
+    "instruction": "Turn a clean egg carton into a useful structure. Explore its cups, ridges and folding lid.",
+    "cue": "CUP / CUT / CONNECT",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M15",
+    "type": "MATERIALS",
+    "title": "Corks",
+    "instruction": "Use corks as key parts in your invention. Explore their grip, buoyancy or rounded shape.",
+    "cue": "FLOAT / ROLL / GRIP",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M16",
+    "type": "MATERIALS",
+    "title": "Aluminum foil",
+    "instruction": "Make foil do useful work. Fold, crumple or layer it into a shape that helps your invention.",
+    "cue": "FOLD / PRESS / REFLECT",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M17",
+    "type": "MATERIALS",
+    "title": "Fallen twigs",
+    "instruction": "Gather fallen twigs and build with their natural shapes. Join them into a useful structure.",
+    "cue": "LASH / BRANCH / BALANCE",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "M18",
+    "type": "MATERIALS",
+    "title": "Three rescued objects",
+    "instruction": "Choose three clean objects headed for the trash. Give all three a useful role in one contraption.",
+    "cue": "RESCUE / COMBINE / REUSE",
+    "back_file": "back-materials.png"
+  },
+  {
+    "id": "K01",
+    "type": "MECHANISM",
+    "title": "Lever",
+    "instruction": "Pivot a bar on a support. Use movement at one end to lift, push or move something at the other.",
+    "cue": "PIVOT / PUSH / LIFT",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K02",
+    "type": "MECHANISM",
+    "title": "Wheel and axle",
+    "instruction": "Connect a wheel to a shaft so they turn together. Use their rotation to help accomplish the mission.",
+    "cue": "TURN TOGETHER",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K03",
+    "type": "MECHANISM",
+    "title": "Pulley",
+    "instruction": "Run a cord over a turning wheel. Use it to redirect a pull or help move a load.",
+    "cue": "GUIDE THE PULL",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K04",
+    "type": "MECHANISM",
+    "title": "Counterweight",
+    "instruction": "Use one weight to balance or move another part. The balancing weight must do useful work.",
+    "cue": "BALANCE / MOVE",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K05",
+    "type": "MECHANISM",
+    "title": "Ramp",
+    "instruction": "Use a sloped surface to guide motion or raise an object gradually. Make the slope do useful work.",
+    "cue": "GUIDE ALONG A SLOPE",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K06",
+    "type": "MECHANISM",
+    "title": "Wedge",
+    "instruction": "Push a tapered piece between surfaces. Use its shape to lift, separate or hold something.",
+    "cue": "PUSH / SEPARATE / HOLD",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K07",
+    "type": "MECHANISM",
+    "title": "Screw",
+    "instruction": "Use a threaded connection to turn rotation into straight-line movement or a holding force.",
+    "cue": "TURN INTO TRAVEL",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K08",
+    "type": "MECHANISM",
+    "title": "Cam and follower",
+    "instruction": "Turn a shaped wheel against a follower. Use its changing profile to lift or move the follower.",
+    "cue": "TURN INTO A REPEAT",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K09",
+    "type": "MECHANISM",
+    "title": "Crank and slider",
+    "instruction": "Connect an off-center crank pin to a guided slider. Turn the crank to create back-and-forth travel.",
+    "cue": "TURN / PUSH / PULL",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K10",
+    "type": "MECHANISM",
+    "title": "Linkage",
+    "instruction": "Join rigid pieces with pivots. Use the connected pieces to guide or transfer movement.",
+    "cue": "CONNECT THE MOTION",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K11",
+    "type": "MECHANISM",
+    "title": "Meshing gears",
+    "instruction": "Make toothed wheels engage. Use one gear to turn another and help accomplish the mission.",
+    "cue": "TEETH TRANSFER MOTION",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K12",
+    "type": "MECHANISM",
+    "title": "Belt drive",
+    "instruction": "Loop a belt around two wheels. Use the belt to carry rotation from one wheel to the other.",
+    "cue": "CONNECT TWO WHEELS",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K13",
+    "type": "MECHANISM",
+    "title": "Ratchet and pawl",
+    "instruction": "Let a catch engage a toothed wheel or strip. Allow motion one way and resist it the other way.",
+    "cue": "ADVANCE / HOLD",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K14",
+    "type": "MECHANISM",
+    "title": "Spring return",
+    "instruction": "Store energy in a spring or elastic part. Release it to bring a moving part back toward its start.",
+    "cue": "STRETCH / RELEASE",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K15",
+    "type": "MECHANISM",
+    "title": "Gravity feed",
+    "instruction": "Arrange parts so gravity supplies the motion. Guide objects toward a useful destination.",
+    "cue": "LET GRAVITY WORK",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K16",
+    "type": "MECHANISM",
+    "title": "Pendulum",
+    "instruction": "Hang a weight from a pivot and let it swing. Use the repeated motion to help with your mission.",
+    "cue": "SWING FROM A PIVOT",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K17",
+    "type": "MECHANISM",
+    "title": "Spool and cord",
+    "instruction": "Wind or unwind a cord around a drum. Use the changing cord length to move another part.",
+    "cue": "WIND / LIFT / RELEASE",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "K18",
+    "type": "MECHANISM",
+    "title": "Flexible hinge",
+    "instruction": "Join two parts with a bendable strip. Make movement happen by bending the joint.",
+    "cue": "BEND AT THE JOINT",
+    "back_file": "back-mechanism.png"
+  },
+  {
+    "id": "G01",
+    "type": "MISSION",
+    "title": "Lift a small object",
+    "instruction": "Raise a small object from a lower level to a higher one. Let your mechanism do the lifting.",
+    "cue": "TEST: SHOW A CLEAR LIFT",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G02",
+    "type": "MISSION",
+    "title": "Cross a gap",
+    "instruction": "Move a small object from one side of a gap to the other. Keep it out of the space below.",
+    "cue": "TEST: REACH THE FAR SIDE",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G03",
+    "type": "MISSION",
+    "title": "Deliver a message",
+    "instruction": "Carry a written or drawn message from its starting point to a waiting recipient.",
+    "cue": "TEST: MESSAGE RECEIVED",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G04",
+    "type": "MISSION",
+    "title": "Reveal something hidden",
+    "instruction": "Keep an object or message concealed. Operate your contraption to bring it into view.",
+    "cue": "TEST: HIDDEN TO VISIBLE",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G05",
+    "type": "MISSION",
+    "title": "Sort by size",
+    "instruction": "Separate a mixed collection into at least two size groups. Make the contraption help decide.",
+    "cue": "TEST: TWO DISTINCT GROUPS",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G06",
+    "type": "MISSION",
+    "title": "Dispense one at a time",
+    "instruction": "Hold several similar objects. Release just one during each operating cycle.",
+    "cue": "TEST: ONE PER CYCLE",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G07",
+    "type": "MISSION",
+    "title": "Hold it in position",
+    "instruction": "Keep an object in a chosen position without holding it yourself. Show that it stays put.",
+    "cue": "TEST: LET GO; IT STAYS",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G08",
+    "type": "MISSION",
+    "title": "Protect something fragile",
+    "instruction": "Build a way to protect a fragile object from a small bump. Use a harmless stand-in first.",
+    "cue": "TEST: SURVIVE A SMALL BUMP",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G09",
+    "type": "MISSION",
+    "title": "Draw a repeating pattern",
+    "instruction": "Move a drawing tool or a surface to make a pattern repeat. Let the mechanism guide it.",
+    "cue": "TEST: REPEAT THREE TIMES",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G10",
+    "type": "MISSION",
+    "title": "Bring a creature to life",
+    "instruction": "Give an imagined creature a convincing movement. Make it nod, flap, crawl or express a mood.",
+    "cue": "TEST: SHOW ITS MOVEMENT",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G11",
+    "type": "MISSION",
+    "title": "Give a visible signal",
+    "instruction": "Make a clear visual change that someone can recognize from across a table.",
+    "cue": "TEST: SPOT THE CHANGE",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G12",
+    "type": "MISSION",
+    "title": "Make a sound",
+    "instruction": "Create an intentional sound when your contraption operates. Make it happen again on demand.",
+    "cue": "TEST: SOUND ON DEMAND",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G13",
+    "type": "MISSION",
+    "title": "Compare two weights",
+    "instruction": "Show which of two small objects is heavier, or whether they balance. Use the same test for both.",
+    "cue": "TEST: SWAP AND COMPARE",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G14",
+    "type": "MISSION",
+    "title": "Slow a moving object",
+    "instruction": "Make an object move more slowly than it would without your contraption. Compare both runs.",
+    "cue": "TEST: COMPARE THE MOTION",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G15",
+    "type": "MISSION",
+    "title": "Catch and release",
+    "instruction": "Catch a small moving object, hold it briefly, then release it through your mechanism.",
+    "cue": "TEST: CATCH / HOLD / LET GO",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G16",
+    "type": "MISSION",
+    "title": "Fold into less space",
+    "instruction": "Make a useful structure that folds into a smaller form. Open it again and show it still works.",
+    "cue": "TEST: FOLD AND REOPEN",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G17",
+    "type": "MISSION",
+    "title": "Operate from a distance",
+    "instruction": "Control an action from beyond arm's reach. Keep your hands away from the part doing the job.",
+    "cue": "TEST: WORK IT FROM AFAR",
+    "back_file": "back-mission.png"
+  },
+  {
+    "id": "G18",
+    "type": "MISSION",
+    "title": "Move two things together",
+    "instruction": "Use one input to make two separate parts move at the same time. Give both parts a visible job.",
+    "cue": "TEST: ONE INPUT; TWO MOVES",
+    "back_file": "back-mission.png"
+  }
+]

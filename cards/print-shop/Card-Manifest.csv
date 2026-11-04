@@ -1,0 +1,55 @@
+id,type,title,instruction,cue,back_file
+M01,MATERIALS,Corrugated cardboard,"Use the ridged layers of a shipping box as your main building material. Cut, fold or laminate them.",FOLD / STACK / SLOT,back-materials.png
+M02,MATERIALS,Paper,"Make paper do the work. Fold, roll, pleat or layer ordinary sheets into a useful structure.",FOLD / ROLL / PLEAT,back-materials.png
+M03,MATERIALS,Scrap wood,Give a wooden offcut another job. Make it a useful part of your contraption.,JOIN / STACK / SHAPE,back-materials.png
+M04,MATERIALS,Discarded packaging,"Turn a clean box, carton or packing insert into the main structure of your build.",RESCUE / REBUILD,back-materials.png
+M05,MATERIALS,Paperboard tubes,"Build around one or more paperboard tubes. Use their hollow shape, or cut and reshape them.",ROLL / NEST / JOIN,back-materials.png
+M06,MATERIALS,Craft sticks,Use craft sticks as the main structural pieces. Connect them into something that works.,BRIDGE / LINK / LAYER,back-materials.png
+M07,MATERIALS,Bottle caps,"Make clean bottle caps an essential part of your build. Explore their rims, circles and small size.",ROLL / STACK / SORT,back-materials.png
+M08,MATERIALS,Plastic bottles,"Give a clean plastic bottle a new purpose. Use its body, neck or flexible walls in your build.",SQUEEZE / SHAPE / HOLD,back-materials.png
+M09,MATERIALS,Fabric scraps,"Make fabric an essential working part. Fold, stretch, tie or stitch your scraps into shape.",STITCH / STRETCH / FOLD,back-materials.png
+M10,MATERIALS,String or yarn,"Use string or yarn to carry a load, connect parts or transmit motion. Put tension to work.",TIE / WEAVE / PULL,back-materials.png
+M11,MATERIALS,Thin craft wire,Bend thin craft wire into a useful structure or moving part. Give those lines a job to do.,BEND / LOOP / TWIST,back-materials.png
+M12,MATERIALS,Rubber bands,"Put rubber bands to work. Use their stretch, grip or stored energy as a key part of your build.",STRETCH / GRIP / RETURN,back-materials.png
+M13,MATERIALS,Clothespins,"Use wooden clothespins as working parts. Try their jaws, spring or wooden halves.",CLAMP / JOIN / RELEASE,back-materials.png
+M14,MATERIALS,Egg cartons,"Turn a clean egg carton into a useful structure. Explore its cups, ridges and folding lid.",CUP / CUT / CONNECT,back-materials.png
+M15,MATERIALS,Corks,"Use corks as key parts in your invention. Explore their grip, buoyancy or rounded shape.",FLOAT / ROLL / GRIP,back-materials.png
+M16,MATERIALS,Aluminum foil,"Make foil do useful work. Fold, crumple or layer it into a shape that helps your invention.",FOLD / PRESS / REFLECT,back-materials.png
+M17,MATERIALS,Fallen twigs,Gather fallen twigs and build with their natural shapes. Join them into a useful structure.,LASH / BRANCH / BALANCE,back-materials.png
+M18,MATERIALS,Three rescued objects,Choose three clean objects headed for the trash. Give all three a useful role in one contraption.,RESCUE / COMBINE / REUSE,back-materials.png
+K01,MECHANISM,Lever,"Pivot a bar on a support. Use movement at one end to lift, push or move something at the other.",PIVOT / PUSH / LIFT,back-mechanism.png
+K02,MECHANISM,Wheel and axle,Connect a wheel to a shaft so they turn together. Use their rotation to help accomplish the mission.,TURN TOGETHER,back-mechanism.png
+K03,MECHANISM,Pulley,Run a cord over a turning wheel. Use it to redirect a pull or help move a load.,GUIDE THE PULL,back-mechanism.png
+K04,MECHANISM,Counterweight,Use one weight to balance or move another part. The balancing weight must do useful work.,BALANCE / MOVE,back-mechanism.png
+K05,MECHANISM,Ramp,Use a sloped surface to guide motion or raise an object gradually. Make the slope do useful work.,GUIDE ALONG A SLOPE,back-mechanism.png
+K06,MECHANISM,Wedge,"Push a tapered piece between surfaces. Use its shape to lift, separate or hold something.",PUSH / SEPARATE / HOLD,back-mechanism.png
+K07,MECHANISM,Screw,Use a threaded connection to turn rotation into straight-line movement or a holding force.,TURN INTO TRAVEL,back-mechanism.png
+K08,MECHANISM,Cam and follower,Turn a shaped wheel against a follower. Use its changing profile to lift or move the follower.,TURN INTO A REPEAT,back-mechanism.png
+K09,MECHANISM,Crank and slider,Connect an off-center crank pin to a guided slider. Turn the crank to create back-and-forth travel.,TURN / PUSH / PULL,back-mechanism.png
+K10,MECHANISM,Linkage,Join rigid pieces with pivots. Use the connected pieces to guide or transfer movement.,CONNECT THE MOTION,back-mechanism.png
+K11,MECHANISM,Meshing gears,Make toothed wheels engage. Use one gear to turn another and help accomplish the mission.,TEETH TRANSFER MOTION,back-mechanism.png
+K12,MECHANISM,Belt drive,Loop a belt around two wheels. Use the belt to carry rotation from one wheel to the other.,CONNECT TWO WHEELS,back-mechanism.png
+K13,MECHANISM,Ratchet and pawl,Let a catch engage a toothed wheel or strip. Allow motion one way and resist it the other way.,ADVANCE / HOLD,back-mechanism.png
+K14,MECHANISM,Spring return,Store energy in a spring or elastic part. Release it to bring a moving part back toward its start.,STRETCH / RELEASE,back-mechanism.png
+K15,MECHANISM,Gravity feed,Arrange parts so gravity supplies the motion. Guide objects toward a useful destination.,LET GRAVITY WORK,back-mechanism.png
+K16,MECHANISM,Pendulum,Hang a weight from a pivot and let it swing. Use the repeated motion to help with your mission.,SWING FROM A PIVOT,back-mechanism.png
+K17,MECHANISM,Spool and cord,Wind or unwind a cord around a drum. Use the changing cord length to move another part.,WIND / LIFT / RELEASE,back-mechanism.png
+K18,MECHANISM,Flexible hinge,Join two parts with a bendable strip. Make movement happen by bending the joint.,BEND AT THE JOINT,back-mechanism.png
+G01,MISSION,Lift a small object,Raise a small object from a lower level to a higher one. Let your mechanism do the lifting.,TEST: SHOW A CLEAR LIFT,back-mission.png
+G02,MISSION,Cross a gap,Move a small object from one side of a gap to the other. Keep it out of the space below.,TEST: REACH THE FAR SIDE,back-mission.png
+G03,MISSION,Deliver a message,Carry a written or drawn message from its starting point to a waiting recipient.,TEST: MESSAGE RECEIVED,back-mission.png
+G04,MISSION,Reveal something hidden,Keep an object or message concealed. Operate your contraption to bring it into view.,TEST: HIDDEN TO VISIBLE,back-mission.png
+G05,MISSION,Sort by size,Separate a mixed collection into at least two size groups. Make the contraption help decide.,TEST: TWO DISTINCT GROUPS,back-mission.png
+G06,MISSION,Dispense one at a time,Hold several similar objects. Release just one during each operating cycle.,TEST: ONE PER CYCLE,back-mission.png
+G07,MISSION,Hold it in position,Keep an object in a chosen position without holding it yourself. Show that it stays put.,TEST: LET GO; IT STAYS,back-mission.png
+G08,MISSION,Protect something fragile,Build a way to protect a fragile object from a small bump. Use a harmless stand-in first.,TEST: SURVIVE A SMALL BUMP,back-mission.png
+G09,MISSION,Draw a repeating pattern,Move a drawing tool or a surface to make a pattern repeat. Let the mechanism guide it.,TEST: REPEAT THREE TIMES,back-mission.png
+G10,MISSION,Bring a creature to life,"Give an imagined creature a convincing movement. Make it nod, flap, crawl or express a mood.",TEST: SHOW ITS MOVEMENT,back-mission.png
+G11,MISSION,Give a visible signal,Make a clear visual change that someone can recognize from across a table.,TEST: SPOT THE CHANGE,back-mission.png
+G12,MISSION,Make a sound,Create an intentional sound when your contraption operates. Make it happen again on demand.,TEST: SOUND ON DEMAND,back-mission.png
+G13,MISSION,Compare two weights,"Show which of two small objects is heavier, or whether they balance. Use the same test for both.",TEST: SWAP AND COMPARE,back-mission.png
+G14,MISSION,Slow a moving object,Make an object move more slowly than it would without your contraption. Compare both runs.,TEST: COMPARE THE MOTION,back-mission.png
+G15,MISSION,Catch and release,"Catch a small moving object, hold it briefly, then release it through your mechanism.",TEST: CATCH / HOLD / LET GO,back-mission.png
+G16,MISSION,Fold into less space,Make a useful structure that folds into a smaller form. Open it again and show it still works.,TEST: FOLD AND REOPEN,back-mission.png
+G17,MISSION,Operate from a distance,Control an action from beyond arm's reach. Keep your hands away from the part doing the job.,TEST: WORK IT FROM AFAR,back-mission.png
+G18,MISSION,Move two things together,Use one input to make two separate parts move at the same time. Give both parts a visible job.,TEST: ONE INPUT; TWO MOVES,back-mission.png
