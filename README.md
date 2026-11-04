@@ -24,6 +24,8 @@ The physical deck gives you 5,832 possible challenges. The rules are on a separa
 
 **At home.** The [home-print PDF](cards/Contraption-Shuffle-Home-Print.pdf) makes the whole deck on six US Letter sheets. Print at **100% / actual size**, double-sided, flipping on the **long edge**. Each odd page has nine backs. The following even page has their matching faces. Print pages 1–2 first, hold the sheet up to the light to check alignment, then print the remaining pairs. Cut on the grid to get 2.5 × 3.5 inch cards.
 
+**At DriveThruCards.** Choose US Poker (2.5 × 3.5 inches) and upload the [54-card deck PDF](cards/print-shop/drivethrucards/Contraption-Shuffle-DriveThruCards-Deck.pdf). Its 108 pages alternate each category back with its matching face. For the custom box, select the 54-card poker tuckbox and upload the [tuckbox PDF](cards/print-shop/drivethrucards/Contraption-Shuffle-DriveThruCards-Tuckbox.pdf) separately.
+
 **At a print shop.** The [complete print pack](downloads/Contraption-Shuffle-Print-Pack.zip) contains the PDFs, 300 dpi PNGs, front-to-back manifest and editable artwork generator. Choose the file arrangement your printer uses.
 
 | Upload workflow | Files |
