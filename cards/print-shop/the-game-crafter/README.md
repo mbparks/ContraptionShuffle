@@ -4,11 +4,12 @@ One 54-card poker deck with a common, reversible back and a custom printed tuckb
 
 ## Upload the game
 
-Unzip this pack. In The Game Crafter's game editor, create a game and add one **Poker Deck** component. Use these files in the component fields.
+Unzip this pack. If the back upload field asks for **750 × 1125 pixels**, choose `back/common-back.png`. For the **Poker Deck** component, use the 825 × 1125 back with the matching 54 poker faces. Upload one back for the entire deck.
 
 | Component or field | File or folder | What to do |
 | --- | --- | --- |
-| Poker Deck → Back | `back/common-back.png` | Upload this image once as the deck back. All 54 cards use it, in either orientation. |
+| Deck Back field requesting 750 × 1125 | `back/common-back.png` | Upload this reversible common back. |
+| Poker Deck → Back (825 × 1125) | `poker/back-825x1125.png` | Use with the poker faces in this pack. |
 | Poker Deck → Card faces | `faces/` | Select the 54 PNGs together. Use one copy of each face. The M, K, and G filenames identify the three categories. |
 | Poker Tuck Box (54 cards) → Outside artwork | `box/poker-tuckbox-54.png` | Add one 54-card Poker Tuck Box. Upload the full image at its supplied dimensions. |
 | Player rules | `rules/Contraption-Shuffle-Common-Back-Rules.pdf` | Share or print the one-page rules separately. The box gives directions for both ways to draw. |
@@ -19,7 +20,8 @@ Use **Proof All** to review the deck, then proof the box in its component editor
 
 | Artwork | Pixels | Finished component |
 | --- | --- | --- |
-| Each face and the shared back | 825 × 1125 | 2.5 × 3.5 inch poker card with 0.125 inch bleed on each edge |
+| Common back | 750 × 1125 | For a deck back field specifying this pixel size |
+| Poker faces and Poker Deck back | 825 × 1125 | 2.5 × 3.5 inch poker card with 0.125 inch bleed on each edge |
 | Tuckbox outside | 2325 × 1950 | The Game Crafter's Poker Tuck Box (54 cards) |
 
 The production PNGs are RGB at 300 ppi. Bleed is included, and template guides are excluded. The ZIP and PDF are for distribution. Use the individual PNGs in the print component editor.
